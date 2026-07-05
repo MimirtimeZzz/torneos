@@ -1,0 +1,9 @@
+USUARIOS DE PRUEBA
+
+Organizador:
+Email: juan@example.com
+Contraseña: password123
+
+Participante:
+Email: carlos@example.com
+Contraseña: password123
